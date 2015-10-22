@@ -16,7 +16,7 @@
 | environments.
 |
 */
-$config['base_url']	= 'http://localhost/testsite3';
+$config['base_url']	= 'http://localhost/Codeignitor-Bootstrap';
 
 /*
 |--------------------------------------------------------------------------
